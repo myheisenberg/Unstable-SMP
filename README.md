@@ -1,6 +1,6 @@
-# ⚔️ Unstable SMP Hub (Kararsız SMP FFA) — Official Release
+# ⚔️ Unstable SMP Hub v4.3 (Kararsız SMP FFA) — Official Release
 
-Official, high-performance, and **100% Keyless** Luau script for **Unstable SMP** on Roblox, protected with **Luraph Obfuscation** via Panda Vault Lite.
+Official, high-performance, and **100% Keyless** Luau script for **Unstable SMP** on Roblox, protected with **Panda-K (Max Security VM)** via Panda Vault Lite.
 
 ---
 
